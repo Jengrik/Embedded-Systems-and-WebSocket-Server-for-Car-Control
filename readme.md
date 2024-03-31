@@ -1,0 +1,4 @@
+## Embedded Systems WebSocket Server for Car Control
+
+### Description
+This project aims to develop a WebSocket server using Node.js, designed to facilitate communication between multiple embedded systems. These embedded systems serve various roles, including representing cars and their respective control mechanisms. Specifically, the embedded systems representing cars will incorporate cameras to stream real-time visual data to the server. The server acts as a central hub for receiving and distributing data, enabling seamless interaction and control between the embedded systems. This setup facilitates efficient monitoring and management of car-related functions, enhancing overall system integration and control. The project repository is available on Github for collaboration and further development.
