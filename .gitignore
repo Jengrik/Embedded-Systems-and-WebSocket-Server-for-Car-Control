@@ -1,0 +1,11 @@
+# Ignore the Compilation and Generated Files
+*.o
+*.out
+*.exe
+
+# Ignore the node_modules folders in any repository location
+**/node_modules/
+
+# Ignore remnant image files
+Thumbs.db
+.DS_Store
