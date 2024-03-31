@@ -1,0 +1,26 @@
+{
+  "name": "cam-io-sockets-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "run": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "NodeJS",
+    "ExpressJS",
+    "SockeIO"
+  ],
+  "author": "Jhon Navarrete",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "morgan": "^1.10.0",
+    "socket.io": "^4.7.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
